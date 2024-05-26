@@ -1,0 +1,356 @@
+{
+    "is_plani": [
+        {
+            "soru": "Bir iş planının temel bileşenleri nelerdir?",
+            "cevap": "Bir iş planı, özet bilgi, şirket tanıtımı, pazar analizi, yönetim ve organizasyon, satış stratejileri, finansman talebi, finansal projeksiyonlar ve ekler gibi bölümleri içermelidir."
+        },
+        {
+            "soru": "Finansal projeksiyon nasıl hazırlanır?",
+            "cevap": "Finansal projeksiyonlar, gelecekteki gelir, gider ve karlılığı tahmin eder. Bu, gelir tablosu, nakit akış tablosu ve bilanço oluşturmayı içerir."
+        },
+        {
+            "soru": "Yönetici özeti nasıl yazılmalıdır?",
+            "cevap": "Yönetici özeti, iş planının kısa ve öz bir özetidir. İşletmenizin ne yaptığını, hedeflerinizi, stratejilerinizi ve finansal beklentilerinizi içermelidir."
+        },
+        {
+            "soru": "Pazar analizi nasıl yapılır?",
+            "cevap": "Pazar analizi, hedef pazarınızı, müşteri segmentlerini, pazar büyüklüğünü ve rekabet durumunu analiz eder. Veriler, sektör raporları ve müşteri anketleri gibi kaynaklardan toplanabilir."
+        },
+        {
+            "soru": "Rekabet analizi nasıl yapılır?",
+            "cevap": "Rekabet analizi, rakiplerinizin güçlü ve zayıf yönlerini, pazar paylarını ve stratejilerini analiz eder. Bu bilgiler, işletmenizin rekabet avantajlarını belirlemenize yardımcı olur."
+        },
+        {
+            "soru": "İş planı yazarken hangi hatalardan kaçınmalıyım?",
+            "cevap": "Belirsiz hedefler, yetersiz pazar araştırması, aşırı iyimser finansal tahminler ve belirsiz bir iş modeli gibi hatalardan kaçınmalısınız."
+        },
+        {
+            "soru": "İş planı ne kadar detaylı olmalı?",
+            "cevap": "İş planı, potansiyel yatırımcılar ve iş ortakları için yeterince detaylı olmalı, ancak anlaşılır ve okunabilir kalmalıdır."
+        },
+        {
+            "soru": "İş planı ne kadar sıklıkla güncellenmelidir?",
+            "cevap": "İş planı, piyasa koşullarındaki değişikliklere ve işletme hedeflerindeki gelişmelere bağlı olarak düzenli aralıklarla güncellenmelidir."
+        },
+        {
+            "soru": "Bir iş planında yer alması gereken finansal tablolar nelerdir?",
+            "cevap": "İş planında yer alması gereken finansal tablolar arasında gelir tablosu, bilanço ve nakit akış tablosu bulunur."
+        },
+        {
+            "soru": "Bir iş planının uzunluğu ne kadar olmalıdır?",
+            "cevap": "İş planının uzunluğu, işletmenizin karmaşıklığına ve hedef kitlenizin ihtiyaçlarına bağlı olarak değişir. Genellikle 15-30 sayfa arasında olmalıdır."
+        },
+        {
+            "soru": "İş planında risk analizi nasıl yapılır?",
+            "cevap": "Risk analizi, potansiyel risklerin belirlenmesi ve bu risklerin nasıl yönetileceğinin planlanması sürecidir. SWOT analizi gibi araçlar kullanılarak yapılabilir."
+        },
+        {
+            "soru": "İş planında hedef kitle nasıl tanımlanır?",
+            "cevap": "Hedef kitle, işletmenizin ürün veya hizmetlerine en çok ilgi gösterecek müşteri segmentlerini tanımlar. Demografik, coğrafi, psikografik ve davranışsal kriterlere göre belirlenir."
+        },
+        {
+            "soru": "İş planı neden gereklidir?",
+            "cevap": "İş planı, işletmenizin hedeflerini, stratejilerini ve finansal projeksiyonlarını net bir şekilde ortaya koyarak, yatırımcıları ve iş ortaklarını çekmek ve işletmenizin başarısını sağlamak için gereklidir."
+        },
+        {
+            "soru": "İş planı hazırlarken hangi yazılımlar kullanılabilir?",
+            "cevap": "İş planı hazırlarken kullanılabilecek yazılımlar arasında Bizplan, LivePlan, Enloop ve Microsoft Word/Excel gibi araçlar bulunur."
+        },
+        {
+            "soru": "İş planında pazar büyüklüğü nasıl hesaplanır?",
+            "cevap": "Pazar büyüklüğü, hedef pazarınızın toplam değerini veya hacmini belirlemek için kullanılan bir ölçüttür. Sektör raporları, pazar araştırmaları ve müşteri anketleri gibi kaynaklardan elde edilen verilerle hesaplanır."
+        },
+        {
+            "soru": "İş planında yer alan hedefler nasıl belirlenir?",
+            "cevap": "Hedefler, işletmenizin kısa, orta ve uzun vadeli hedeflerini belirler. SMART (Specific, Measurable, Achievable, Relevant, Time-bound) kriterlerine göre belirlenmelidir."
+        },
+        {
+            "soru": "İş planı hazırlarken müşteri geri bildirimleri nasıl kullanılır?",
+            "cevap": "Müşteri geri bildirimleri, iş planınızı gerçek müşteri ihtiyaçlarına ve beklentilerine göre şekillendirmenize yardımcı olur. Anketler, odak grupları ve bire bir görüşmeler yoluyla toplanabilir."
+        },
+        {
+            "soru": "İş planında rekabet avantajı nasıl tanımlanır?",
+            "cevap": "Rekabet avantajı, işletmenizin rakiplerine göre üstün olduğu alanları tanımlar. Bu, benzersiz ürün özellikleri, maliyet avantajları, teknoloji veya müşteri hizmetleri gibi faktörler olabilir."
+        },
+        {
+            "soru": "İş planı için gerekli veriler nasıl toplanır?",
+            "cevap": "İş planı için gerekli veriler, pazar araştırmaları, sektör raporları, müşteri anketleri ve finansal analizler gibi kaynaklardan toplanabilir."
+        },
+        {
+            "soru": "İş planında kullanılan finansal tahminler ne kadar güvenilir olmalıdır?",
+            "cevap": "Finansal tahminler, gerçekçi ve veri odaklı olmalıdır. Aşırı iyimser tahminlerden kaçınılmalı ve mümkünse farklı senaryolar (en iyi, en kötü, olası) oluşturulmalıdır."
+        },
+        {
+            "soru": "İş planında yer alan stratejiler nasıl oluşturulur?",
+            "cevap": "Stratejiler, işletmenizin hedeflerine ulaşmak için izleyeceği yolları tanımlar. Pazar analizi, rekabet analizi ve müşteri ihtiyaçları göz önünde bulundurularak oluşturulmalıdır."
+        },
+        {
+            "soru": "İş planı nasıl sunulmalıdır?",
+            "cevap": "İş planı, net ve profesyonel bir şekilde yazılmalı, görsel öğelerle desteklenmeli ve hedef kitlenizin ilgisini çekecek şekilde sunulmalıdır. Sunum sırasında, önemli noktalar vurgulanmalı ve sorulara hazırlıklı olunmalıdır."
+        },
+        {
+            "soru": "İş planında maliyet analizi nasıl yapılır?",
+            "cevap": "Maliyet analizi, işletmenizin faaliyetleri için gerekli olan tüm maliyetleri belirler ve bu maliyetlerin nasıl finanse edileceğini planlar. Sabit ve değişken maliyetler, başlangıç maliyetleri ve işletme maliyetleri dahil edilmelidir."
+        },
+        {
+            "soru": "İş planında satış tahminleri nasıl yapılır?",
+            "cevap": "Satış tahminleri, geçmiş satış verileri, pazar trendleri ve müşteri talepleri dikkate alınarak yapılır. Bu tahminler, finansal projeksiyonların temelini oluşturur."
+        },
+        {
+            "soru": "İş planında hedef pazar nasıl tanımlanır?",
+            "cevap": "Hedef pazar, işletmenizin ürün veya hizmetlerine en çok ilgi gösterecek müşteri segmentlerini tanımlar. Demografik, coğrafi, psikografik ve davranışsal kriterlere göre belirlenir."
+        },
+        {
+            "soru": "İş planında yer alan pazarlama stratejileri nasıl oluşturulur?",
+            "cevap": "Pazarlama stratejileri, işletmenizin ürün veya hizmetlerini hedef pazara nasıl tanıtacağını ve satacağını belirler. 4P (Ürün, Fiyat, Yer, Promosyon) yaklaşımı kullanılarak oluşturulabilir."
+        },
+        {
+            "soru": "İş planında hedefler nasıl ölçülür?",
+            "cevap": "Hedefler, belirli ve ölçülebilir kriterlere göre izlenmeli ve değerlendirilmeli. KPI'lar (Key Performance Indicators) bu süreçte önemli bir rol oynar."
+        },
+        {
+            "soru": "İş planında yer alan ürün veya hizmet tanıtımı nasıl yapılır?",
+            "cevap": "Ürün veya hizmet tanıtımı, işletmenizin sunduğu ürün veya hizmetlerin özelliklerini, faydalarını ve müşterilere sağlayacağı değeri açıklar. Bu bölüm, ürün geliştirme süreci ve gelecekteki yenilikler hakkında da bilgi içerebilir."
+        },
+        {
+            "soru": "İş planında yasal ve düzenleyici konular nasıl ele alınır?",
+            "cevap": "Yasal ve düzenleyici konular, işletmenizin faaliyet göstereceği sektörde uyulması gereken yasa ve yönetmelikleri kapsar. Lisanslar, izinler, fikri mülkiyet hakları ve çevresel düzenlemeler gibi konular ele alınmalıdır."
+        }
+    ],
+    "pazar_arastirmasi": [
+        {
+            "soru": "Pazar araştırması için hangi yöntemler kullanılabilir?",
+            "cevap": "Birincil araştırma yöntemleri arasında anketler, görüşmeler ve odak grupları bulunur. İkincil araştırma ise raporlar, çalışmalar ve pazar istatistiklerini analiz etmeyi içerir."
+        },
+        {
+            "soru": "SWOT analizi nedir?",
+            "cevap": "SWOT analizi, bir işletmenin güçlü ve zayıf yönlerini, fırsatları ve tehditleri değerlendirir ve stratejik odak alanlarını belirlemeye yardımcı olur."
+        },
+        {
+            "soru": "Rekabet analizi nasıl yapılır?",
+            "cevap": "Rekabet analizi, rakiplerinizin güçlü ve zayıf yönlerini, pazar paylarını ve stratejilerini analiz eder. Bu bilgiler, işletmenizin rekabet avantajlarını belirlemenize yardımcı olur."
+        },
+        {
+            "soru": "Odak grubu nedir ve nasıl kullanılır?",
+            "cevap": "Odak grubu, belirli bir konuyu tartışmak için bir araya getirilen küçük bir katılımcı grubudur. Ürün veya hizmetler hakkında derinlemesine geri bildirim almak için kullanılır."
+        },
+        {
+            "soru": "Müşteri segmentasyonu nedir?",
+            "cevap": "Müşteri segmentasyonu, müşterilerinizi demografik, coğrafi, psikografik ve davranışsal özelliklere göre gruplandırma sürecidir."
+        },
+        {
+            "soru": "Pazar araştırması raporu nasıl yazılır?",
+            "cevap": "Pazar araştırması raporu, araştırma soruları, metodoloji, bulgular, analiz ve sonuçlar gibi bölümleri içermelidir."
+        },
+        {
+            "soru": "Hedef pazar nasıl belirlenir?",
+            "cevap": "Hedef pazar, ürün veya hizmetlerinize en çok ihtiyaç duyan ve en yüksek ilgiyi gösteren müşteri segmentleri belirlenerek tanımlanır."
+        },
+        {
+            "soru": "Müşteri ihtiyaçları nasıl belirlenir?",
+            "cevap": "Müşteri ihtiyaçları, anketler, görüşmeler, odak grupları ve müşteri geri bildirimleri gibi yöntemlerle belirlenebilir."
+        },
+        {
+            "soru": "Rakip analizi neden önemlidir?",
+            "cevap": "Rakip analizi, işletmenizin rekabet avantajlarını belirlemesine ve pazar stratejilerini optimize etmesine yardımcı olur."
+        },
+        {
+            "soru": "Pazar trendleri nasıl takip edilir?",
+            "cevap": "Pazar trendleri, sektör raporları, pazar araştırmaları, müşteri geri bildirimleri ve rakip analizleri yoluyla takip edilebilir."
+        },
+        {
+            "soru": "Demografik analiz nedir?",
+            "cevap": "Demografik analiz, hedef pazarınızın yaş, cinsiyet, gelir, eğitim ve meslek gibi demografik özelliklerini belirlemek için kullanılır."
+        },
+        {
+            "soru": "Müşteri memnuniyeti nasıl ölçülür?",
+            "cevap": "Müşteri memnuniyeti, anketler, geri bildirim formları, müşteri görüşmeleri ve Net Promoter Score (NPS) gibi yöntemlerle ölçülür."
+        },
+        {
+            "soru": "Pazar araştırmasında kullanılan veri kaynakları nelerdir?",
+            "cevap": "Pazar araştırmasında kullanılan veri kaynakları arasında sektörel raporlar, pazar analizleri, müşteri anketleri ve kamu verileri bulunur."
+        },
+        {
+            "soru": "Müşteri sadakati nasıl artırılır?",
+            "cevap": "Müşteri sadakati, yüksek kaliteli ürünler veya hizmetler sunarak, mükemmel müşteri hizmetleri sağlayarak ve sadakat programları oluşturarak artırılabilir."
+        },
+        {
+            "soru": "Fiyatlandırma stratejileri nasıl belirlenir?",
+            "cevap": "Fiyatlandırma stratejileri, maliyet analizi, rekabet durumu, müşteri talebi ve pazar trendleri göz önünde bulundurularak belirlenir."
+        },
+        {
+            "soru": "Pazar bölümlendirme nedir?",
+            "cevap": "Pazar bölümlendirme, geniş bir pazarı benzer ihtiyaçlara veya özelliklere sahip daha küçük gruplara ayırma sürecidir."
+        },
+        {
+            "soru": "Müşteri davranış analizi nasıl yapılır?",
+            "cevap": "Müşteri davranış analizi, müşterilerin satın alma alışkanlıklarını, tercihlerini ve motivasyonlarını anlamak için veri analizi yöntemleri kullanılarak yapılır."
+        },
+        {
+            "soru": "Pazar tahmini nasıl yapılır?",
+            "cevap": "Pazar tahmini, geçmiş satış verileri, pazar trendleri ve ekonomik göstergeler kullanılarak gelecekteki pazar büyüklüğünü veya satış hacmini tahmin etme sürecidir."
+        },
+        {
+            "soru": "Marka bilinirliği nasıl artırılır?",
+            "cevap": "Marka bilinirliği, etkili pazarlama kampanyaları, sosyal medya stratejileri ve halkla ilişkiler faaliyetleriyle artırılabilir."
+        },
+        {
+            "soru": "Tüketici satın alma süreci nedir?",
+            "cevap": "Tüketici satın alma süreci, ihtiyaç farkındalığı, bilgi arama, alternatifleri değerlendirme, satın alma kararı ve satın alma sonrası değerlendirme aşamalarını içerir."
+        },
+        {
+            "soru": "Pazar araştırması sonuçları nasıl analiz edilir?",
+            "cevap": "Pazar araştırması sonuçları, toplanan verilerin istatistiksel analizleri, grafikler ve raporlar kullanılarak analiz edilir ve yorumlanır."
+        },
+        {
+            "soru": "Müşteri geri bildirimleri nasıl toplanır?",
+            "cevap": "Müşteri geri bildirimleri, anketler, geri bildirim formları, sosyal medya yorumları ve müşteri hizmetleri görüşmeleri yoluyla toplanabilir."
+        },
+        {
+            "soru": "Müşteri yolculuğu haritası nedir?",
+            "cevap": "Müşteri yolculuğu haritası, müşterilerin bir ürünü veya hizmeti keşfetmelerinden satın almalarına ve sonrasındaki deneyimlerine kadar geçen süreci görselleştiren bir araçtır."
+        },
+        {
+            "soru": "Pazar doygunluğu nedir?",
+            "cevap": "Pazar doygunluğu, belirli bir pazarda talebin büyük ölçüde karşılandığı ve yeni müşteri kazanmanın zorlaştığı durumu ifade eder."
+        },
+        {
+            "soru": "Niş pazar nedir?",
+            "cevap": "Niş pazar, genel pazardan farklı, spesifik ihtiyaçlara veya ilgi alanlarına sahip küçük bir müşteri grubunu hedefleyen pazardır."
+        },
+        {
+            "soru": "Pazar araştırması ne kadar sıklıkla yapılmalıdır?",
+            "cevap": "Pazar araştırması, düzenli aralıklarla ve özellikle büyük stratejik kararlar öncesinde yapılmalıdır. Bu, pazardaki değişikliklere hızlı adapte olmanızı sağlar."
+        },
+        {
+            "soru": "Pazar araştırması maliyetleri nasıl azaltılır?",
+            "cevap": "Pazar araştırması maliyetleri, online anketler, dijital veri toplama araçları ve mevcut pazar raporlarının kullanılmasıyla azaltılabilir."
+        },
+        {
+            "soru": "Rakiplerin fiyat stratejileri nasıl analiz edilir?",
+            "cevap": "Rakiplerin fiyat stratejileri, fiyatlandırma modelleri, promosyonlar ve indirim kampanyaları incelenerek analiz edilir. Bu bilgiler, rekabetçi fiyatlandırma stratejileri geliştirmeye yardımcı olur."
+        }
+    ],
+    "finansman": [
+        {
+            "soru": "Yeni girişimler için başlıca finansman kaynakları nelerdir?",
+            "cevap": "Yeni girişimler, kişisel birikimler, krediler, melek yatırımcılar, girişim sermayesi, kitle fonlaması ve hibeler aracılığıyla finanse edilebilir."
+        },
+        {
+            "soru": "Girişim sermayesi firmaları start-up'ları nasıl değerlendirir?",
+            "cevap": "Girişim sermayesi firmaları, iş modeli, pazar potansiyeli, rekabet avantajı, ekip gücü ve finansal projeksiyonlar gibi faktörlere bakar."
+        },
+        {
+            "soru": "Banka kredisi almak için neler gereklidir?",
+            "cevap": "Banka kredisi almak için kapsamlı bir iş planı, finansal tablolar ve kredi geri ödeme kapasitenizi gösteren belgeler gereklidir. Bankalar, genellikle iş planınızı ve finansal projeksiyonlarınızı inceleyecektir."
+        },
+        {
+            "soru": "Kitle fonlaması nasıl çalışır?",
+            "cevap": "Kitle fonlaması, geniş bir kitleye küçük miktarlarda yatırım yapma imkanı sunar. Kickstarter veya Indiegogo gibi platformlar, projelerinizi tanıtarak gerekli finansmanı toplamanızı sağlar."
+        },
+        {
+            "soru": "Melek yatırımcılar kimlerdir?",
+            "cevap": "Melek yatırımcılar, genellikle yüksek net değerli bireyler olup, yeni veya büyümekte olan işletmelere kendi sermayeleriyle yatırım yaparlar."
+        },
+        {
+            "soru": "Finansal projeksiyonlar neden önemlidir?",
+            "cevap": "Finansal projeksiyonlar, işletmenizin gelecekteki gelir ve giderlerini tahmin ederek, yatırımcıları ve kredi verenleri işletmenizin potansiyel başarısı konusunda bilgilendirir."
+        },
+        {
+            "soru": "Bir iş modeli nasıl oluşturulur?",
+            "cevap": "Bir iş modeli, işletmenizin nasıl gelir elde edeceğini ve sürdürülebilir bir şekilde nasıl faaliyet göstereceğini belirler. İş modeli kanvası gibi araçlar kullanılarak oluşturulabilir."
+        },
+        {
+            "soru": "Kâr marjı nasıl hesaplanır?",
+            "cevap": "Kâr marjı, toplam gelirin toplam giderlerden çıkarılmasıyla elde edilen kârın, toplam gelire bölünmesiyle hesaplanır. Bu oran, işletmenizin karlılığını gösterir."
+        },
+        {
+            "soru": "Finansal tablolar nelerdir?",
+            "cevap": "Finansal tablolar, gelir tablosu, bilanço ve nakit akış tablosu gibi, işletmenizin mali durumunu ve performansını gösteren belgelerdir."
+        },
+        {
+            "soru": "Yatırımcı sunumu nasıl hazırlanır?",
+            "cevap": "Yatırımcı sunumu, işletmenizin iş modelini, pazar fırsatlarını, rekabet avantajlarını ve finansal projeksiyonlarını içeren, potansiyel yatırımcılara yönelik bir sunumdur."
+        },
+        {
+            "soru": "İşletme sermayesi nedir?",
+            "cevap": "İşletme sermayesi, işletmenizin günlük faaliyetlerini sürdürebilmesi için gerekli olan nakit ve diğer likit varlıklardır. Net işletme sermayesi, cari varlıkların cari borçlardan çıkarılmasıyla hesaplanır."
+        },
+        {
+            "soru": "Bütçe nasıl hazırlanır?",
+            "cevap": "Bütçe, işletmenizin gelecekteki gelir ve giderlerini planlayan bir belgedir. Bütçe hazırlanırken, geçmiş finansal veriler, pazar analizleri ve işletme hedefleri göz önünde bulundurulur."
+        },
+        {
+            "soru": "Nakit akışı yönetimi neden önemlidir?",
+            "cevap": "Nakit akışı yönetimi, işletmenizin likiditesini ve mali sağlığını korumak için önemlidir. Pozitif nakit akışı, işletmenizin borçlarını ödeyebilmesini ve büyümesini sağlar."
+        },
+        {
+            "soru": "Kredibilite nasıl artırılır?",
+            "cevap": "Kredibilite, finansal tabloların düzenli olarak güncellenmesi, borç ödeme geçmişinin düzgün olması ve güçlü bir iş planının sunulması ile artırılabilir."
+        },
+        {
+            "soru": "Risk sermayesi nedir?",
+            "cevap": "Risk sermayesi, yüksek büyüme potansiyeline sahip start-up'lara yapılan özel sermaye yatırımlarıdır. Bu tür yatırımlar genellikle yüksek risk içerir, ancak yüksek getiri potansiyeline sahiptir."
+        },
+        {
+            "soru": "Faiz oranları nasıl belirlenir?",
+            "cevap": "Faiz oranları, kredi verenin risk değerlendirmesine, piyasa koşullarına ve merkez bankası politikalarına bağlı olarak belirlenir."
+        },
+        {
+            "soru": "Özkaynak finansmanı nedir?",
+            "cevap": "Özkaynak finansmanı, işletmenizin hisse senetlerini satarak sermaye elde etme yöntemidir. Bu yöntem, işletmenizin sahiplik yapısını değiştirir."
+        },
+        {
+            "soru": "Borç finansmanı nedir?",
+            "cevap": "Borç finansmanı, kredi veya tahvil gibi borçlanma araçları kullanarak sermaye elde etme yöntemidir. Bu yöntem, işletmenizin borç yükünü artırır."
+        },
+        {
+            "soru": "Hibeler nasıl bulunur?",
+            "cevap": "Hibeler, genellikle hükümetler, vakıflar ve sivil toplum kuruluşları tarafından sağlanır. Bu kaynaklar, araştırma, iş geliştirme ve toplumsal projeler için kullanılabilir."
+        },
+        {
+            "soru": "Finansal oranlar nelerdir?",
+            "cevap": "Finansal oranlar, işletmenizin mali durumunu ve performansını değerlendiren oranlardır. Kârlılık, likidite, borç ve verimlilik oranları gibi çeşitli türleri vardır."
+        },
+        {
+            "soru": "Başabaş noktası analizi nedir?",
+            "cevap": "Başabaş noktası analizi, işletmenizin toplam gelirlerinin toplam giderlerini karşıladığı noktayı belirler. Bu analiz, kârlılığın ne zaman başlayacağını gösterir."
+        },
+        {
+            "soru": "Kredi skoru nasıl yükseltilir?",
+            "cevap": "Kredi skoru, borç ödeme geçmişinin düzenli tutulması, mevcut borçların azaltılması ve finansal disiplin sağlanarak yükseltilebilir."
+        },
+        {
+            "soru": "Finansal tablolar nasıl analiz edilir?",
+            "cevap": "Finansal tablolar, oran analizi, eğilim analizi ve karşılaştırmalı analiz gibi yöntemlerle analiz edilir. Bu analizler, işletmenizin mali performansını değerlendirir."
+        },
+        {
+            "soru": "Maliyet azaltma stratejileri nelerdir?",
+            "cevap": "Maliyet azaltma stratejileri, gereksiz harcamaların azaltılması, tedarik zinciri optimizasyonu ve verimlilik artırıcı önlemler gibi yöntemleri içerir."
+        },
+        {
+            "soru": "Geri ödeme planı nasıl hazırlanır?",
+            "cevap": "Geri ödeme planı, işletmenizin borçlarını nasıl ve ne zaman ödeyeceğini planlar. Bu plan, nakit akışını ve geri ödeme tarihlerini dikkate alır."
+        },
+        {
+            "soru": "Nakit akış tablosu nasıl hazırlanır?",
+            "cevap": "Nakit akış tablosu, işletmenizin nakit giriş ve çıkışlarını gösterir. İşletme faaliyetleri, yatırım faaliyetleri ve finansman faaliyetleri olarak üç ana başlıkta hazırlanır."
+        },
+        {
+            "soru": "Hissedar değeri nedir?",
+            "cevap": "Hissedar değeri, işletmenizin hisse senedi sahiplerine sağladığı değeri ifade eder. Bu değer, hisse fiyatı artışları ve temettülerle ölçülür."
+        },
+        {
+            "soru": "Sermaye bütçelemesi nedir?",
+            "cevap": "Sermaye bütçelemesi, işletmenizin uzun vadeli yatırım projelerini değerlendirme ve seçme sürecidir. Bu süreç, yatırım getirisini ve projelerin risklerini analiz eder."
+        },
+        {
+            "soru": "Kâr ve zarar tablosu nasıl hazırlanır?",
+            "cevap": "Kâr ve zarar tablosu, işletmenizin belirli bir dönemdeki gelir ve giderlerini gösterir. Net kâr veya zararı belirler ve işletmenizin mali performansını değerlendirir."
+        },
+        {
+            "soru": "Finansal denetim nedir?",
+            "cevap": "Finansal denetim, işletmenizin finansal kayıtlarının ve raporlarının doğruluğunu ve bütünlüğünü bağımsız bir denetçi tarafından değerlendirme sürecidir."
+        }
+    ]
+}
