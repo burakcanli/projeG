@@ -1,10 +1,10 @@
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'openai_api_key'
 
 def get_response(user_input):
     response = openai.ChatCompletion.create(
-        model="ft:gpt-3.5-turbo-0125:personal::9PXUZAMc",
+        model="ft:gpt-3.5-turbo-0125:personal::......",
         messages=[
             {"role": "system", "content": "You are an entrepreneurship advisor who provides consultancy on starting and running a business."},
             {"role": "user", "content": user_input}
